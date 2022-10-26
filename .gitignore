@@ -1,3 +1,6 @@
+course1/week2-ungraded-lab/content/
+course1/week2-ungraded-lab/tmp/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
